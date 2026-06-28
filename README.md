@@ -4,6 +4,7 @@
 
 приватні поля студента
 
+
 статуси (Active, AcademicLeave, Expelled, Graduated)
 
 початкові властивості та структура класу
